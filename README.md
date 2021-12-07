@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xnemox&label=Profile%20views&color=0e75b6&style=flat" alt="xnemox" /> </p>
 
-- 👨‍💻 I’m currently learning
+- 👨‍💻 I’m still learning
 
 - 💬 Discord: Nemo#1819
 
