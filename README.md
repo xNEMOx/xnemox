@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&color=F7F7F7&lines=Hi%2C+I'm+Nemo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=30&color=F7F7F7&lines=Hi%2C+I'm+Nemo)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xnemox&label=Profile%20views&color=0e75b6&style=flat" alt="xnemox" /> </p>
 
